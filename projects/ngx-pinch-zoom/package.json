@@ -1,6 +1,6 @@
 {
   "name": "@across-the-stars/ngx-pinch-zoom",
-  "version": "0.13.1",
+  "version": "0.14.0",
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   "keywords": [
     "Angular",
     "Angular 2",
-    "Angular 13",
+    "Angular 14",
     "ngx",
     "ng2",
     "Pinch zoom",
@@ -21,8 +21,8 @@
     "url": "https://github.com/across-the-stars/ngx-pinch-zoom/issues"
   },
   "peerDependencies": {
-    "@angular/common": "^13.3.12",
-    "@angular/core": "^13.3.12"
+    "@angular/common": "^14.2.12",
+    "@angular/core": "^14.2.12"
   },
   "dependencies": {
     "tslib": "^2.4.1"
