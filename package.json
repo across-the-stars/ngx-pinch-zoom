@@ -4,9 +4,10 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build",
-    "test": "ng test",
-    "lint": "ng lint",
+    "build": "ng build ngx-pinch-zoom --configuration production",
+    "build-dev": "ng build ngx-pinch-zoom --configuration development",
+    "test": "ng test ngx-pinch-zoom",
+    "lint": "ng lint ngx-pinch-zoom",
     "e2e": "ng e2e"
   },
   "dependencies": {
