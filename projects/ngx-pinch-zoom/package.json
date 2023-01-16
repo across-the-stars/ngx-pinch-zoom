@@ -1,6 +1,6 @@
 {
   "name": "@across-the-stars/ngx-pinch-zoom",
-  "version": "0.13.0",
+  "version": "0.13.1",
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
