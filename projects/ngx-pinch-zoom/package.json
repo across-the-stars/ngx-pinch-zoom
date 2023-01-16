@@ -4,7 +4,7 @@
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/across-the-stars/ngx-pinch-zoom/blob/v0.13.0/README.md"
+    "url": "git+https://github.com/across-the-stars/ngx-pinch-zoom"
   },
   "keywords": [
     "Angular",
