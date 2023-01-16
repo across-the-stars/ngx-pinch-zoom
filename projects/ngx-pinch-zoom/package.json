@@ -1,6 +1,6 @@
 {
-  "name": "ngx-pinch-zoom",
-  "version": "1.0.0",
+  "name": "@across-the-stars/ngx-pinch-zoom",
+  "version": "0.12.0",
   "description": "Pinch zoom component for Angular.",
   "repository": {
     "type": "git",
@@ -22,7 +22,7 @@
   },
   "peerDependencies": {
     "@angular/common": "^12.1.18",
-    "@angular/core": "^12.1.18"
+    "@angular/core": "^12.1.17"
   },
   "dependencies": {
     "tslib": "^2.0.0"
